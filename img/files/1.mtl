@@ -1,0 +1,27 @@
+newmtl material_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 1
+map_Kd 02.jpg
+
+newmtl material_00
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 1
+map_Kd 00.jpg
+
+newmtl material_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 1
+map_Kd 01.jpg
+
